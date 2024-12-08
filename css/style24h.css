@@ -1,0 +1,16 @@
+body{
+    display: flex;
+    justify-content: center;
+    background-color: aquamarine;
+    flex-wrap: wrap;
+}
+
+#contenedor{
+    display: inline-block;
+    border: solid 10px lightgray;
+}
+
+#lienzo{
+    background-color: white;
+    display: block;
+}
